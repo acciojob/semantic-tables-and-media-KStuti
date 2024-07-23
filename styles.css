@@ -3,5 +3,7 @@
 table, th, td{
 	border:solid black;
 	border-collapse:collapse;
-	text-align:center
+	text-align:center;
+	padding:10px;
+	width:50%;
 }
